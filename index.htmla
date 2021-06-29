@@ -1,0 +1,6 @@
+if (hrs < 12)
+        greet = 'Good Morning MAKIKO  ';
+    else if (hrs >= 12 && hrs <= 17)
+        greet = 'Good Afternoon MAKIKO';
+    else if (hrs >= 17 && hrs <= 24)
+        greet = 'Good Evening MAKIKO ';
